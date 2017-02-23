@@ -1,14 +1,13 @@
-# flux-shell
+# image-editor
 
-This is a very simple hello world app that you can use as a starting point for your application.
+Image editor using React, Flux and Canvas
 
 # Usage
 
 ```bash
-cd path/to/flux-shell
 npm install
 npm run build
-# open path/to/flux-shell/index.html in your browser
+# open path/to/index.html in your browser
 ```
 
 # Watch
@@ -17,5 +16,5 @@ Instead of manually building after each change it's possible to automatically re
 
 ```bash
 npm run watch
-# make javascript changes, then refresh path/to/flux-shell/index.html
+# make javascript changes, then refresh path/to/index.html
 ```
